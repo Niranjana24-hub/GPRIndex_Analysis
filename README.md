@@ -92,12 +92,3 @@ Sample period: January 1991 to December 2024, extended back from 1993 to capture
 | NM | Motivation and research questions; Review of literature and references | Report structuring (Motivation and Research Questions, Review of Literature, References, Appendix); PowerPoint preparation | Shaped the project's motivation and research direction by framing the core research questions; grounded the project in existing academic research and ensured referencing met academic standards throughout; strongly cooperative and responsive throughout, ensuring smooth collaboration |
 
 All members participated in project planning, group discussions, and final review of the report.
-
-## AI-Use Transparency
-
-Claude (Anthropic) was used to assist with the following aspects of this project:
-- Drafting and refining the README documentation, including the project overview and repository structure
-- Structuring the Division of Labor, Tasks Completed, and Contributions table
-- General guidance on Git and GitHub workflow (repository setup, commits, and pushing files)
-
-All data analysis, script development, statistical modeling, and interpretation of results were carried out by the group members themselves. AI assistance was limited to documentation support and workflow guidance, not the substantive research or coding content.
