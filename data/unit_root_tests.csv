@@ -1,0 +1,7 @@
+Variable,ADF statistic,PP statistic,KPSS statistic,Integration order
+R_GOLD,-17.456**,-3.345,0.201*,I(0)
+R_SP500,-20.35**,-4.166**,0.121,I(0)
+VIX,-5.616**,-2.925,0.141,I(0)
+dln_GPR,-18.997**,-5.446**,0.066,I(0)
+dln_GPRA,-14.069**,-5.747**,0.071,I(0)
+dln_GPRT,-20.232**,-5.43**,0.059,I(0)

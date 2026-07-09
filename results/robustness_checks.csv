@@ -1,0 +1,7 @@
+check,specification,dep_var,war_n,war_coeff,war_nw_se,war_p,war_sig,war_r2,ctrl_n,ctrl_coeff,ctrl_nw_se,ctrl_p,ctrl_sig,ctrl_r2
+Baseline,"GPR>120 (war), GPR<80 (control), dep=R_GOLD_(t+1)",R_GOLD_LEAD,74,0.9758,0.9556,0.3107,n.s.,0.0791,116,0.538,1.41,0.7035,n.s.,0.0013
+RC1,"GPR>103 (top tercile, war), GPR<82 (bottom tercile, control), dep=R_GOLD_(t+1)",R_GOLD_LEAD,135,-0.2263,1.0418,0.8284,n.s.,0.0029,136,0.4127,1.3854,0.7663,n.s.,0.0057
+RC2,"GPR>120 (war), GPR<80 (control), dep=R_GOLD_(t) [contemporaneous]",R_GOLD,75,1.4063,0.8758,0.1128,n.s.,0.0574,116,0.5063,1.0814,0.6406,n.s.,0.0023
+RC3 (excl. D_GULF),"Exclude Gulf War (Jan-Mar 1991), GPR>120, dep=R_GOLD_(t+1)",R_GOLD_LEAD,72,0.7915,1.0533,0.455,n.s.,0.0824,116,0.538,1.41,0.7035,n.s.,0.0013
+RC3 (excl. D_911),"Exclude 9/11 + Afghan (Sep-Nov 2001), GPR>120, dep=R_GOLD_(t+1)",R_GOLD_LEAD,71,1.3314,1.4412,0.3589,n.s.,0.0941,116,0.538,1.41,0.7035,n.s.,0.0013
+RC3 (excl. D_UKR),"Exclude Russia-Ukraine (Feb-Apr 2022), GPR>120, dep=R_GOLD_(t+1)",R_GOLD_LEAD,71,0.6314,0.8675,0.4692,n.s.,0.0652,116,0.538,1.41,0.7035,n.s.,0.0013

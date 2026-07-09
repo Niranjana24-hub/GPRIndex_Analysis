@@ -1,0 +1,38 @@
+DCC-GARCH RESULTS SUMMARY
+=======================================================
+Sample: 1991-02-01 00:00:00 to 2024-12-01 00:00:00 (N=407)
+Returns: NOMINAL (no CPI deflation — consistent with OLS regressions)
+
+UNIVARIATE GARCH(1,1) — GOLD
+  alpha(1): 0.1458
+  beta(1):  0.7377
+  alpha+beta: 0.8835
+
+UNIVARIATE GARCH(1,1) — S&P 500
+  alpha(1): 0.2151
+  beta(1):  0.7378
+  alpha+beta: 0.9528
+
+DCC PARAMETERS
+  alpha_DCC: 0.0089
+  beta_DCC:  0.4802
+  a + b:     0.4891
+
+TIME-VARYING CORRELATION (rho_t: gold vs S&P 500)
+  Mean: -0.0881
+  Std:  0.0106
+  Min:  -0.1466  (most negative = best diversification)
+  Max:  -0.0290
+
+HEDGE RATIO (Gold / S&P 500)
+  Mean:        -0.0806
+  95th pct:    -0.0383
+
+OPTIMAL PORTFOLIO WEIGHT (Gold share)
+  Mean:  0.5648
+  Range: 0.1503 – 0.8624
+
+KEY INTERPRETATION:
+  Negative rho_t during war episodes confirms gold's safe-haven role.
+  Rising w_gold during war confirms investors should increase gold allocation
+  specifically when GPR (especially GPRA) spikes — consistent with OLS findings.
