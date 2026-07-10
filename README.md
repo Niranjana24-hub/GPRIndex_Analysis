@@ -83,6 +83,14 @@ Sample period: January 1991 to December 2024, extended back from 1993 to capture
    ```
 4. Outputs are written to `data/` (processed datasets) and `results/` (tables, summaries, figures)
 
+## Term Paper Report
+
+Formulated and submitted the term paper report, with support from Claude for tabulation, literature review, and references.
+
+## Modified Term Paper Report
+
+As per the professor's instruction, the Granger causality test was found to be unsuitable for this study and was therefore removed.
+
 ## Division of Labor, Tasks Completed, and Contributions
 
 | Member | Role | Specific Task | Overall Contribution |
